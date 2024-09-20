@@ -6,7 +6,7 @@ self.addEventListener('install',(event)=>{
 
 self.addEventListener('fetch', (event)=>{
     console.log(event.request.url);
-
+/*
     if(event.request.url.includes('style.css')){
         const respuesta = new Response(
             `body{
@@ -21,5 +21,5 @@ self.addEventListener('fetch', (event)=>{
         );
         event.respondWith(respuesta);
     }
-
+*/
 })

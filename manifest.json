@@ -1,10 +1,10 @@
 {
-    "name": "Prueba PWA A1 - Yahir Degante",
+    "name": "Emiliano Ortiz Mi primer PWA",
     "start_url": "index.html",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#5285F4",
-    "short_name": "PWA A1",
+    "short_name": "PWA Emiliano Ortiz",
     "description":"Mi primer PWA",
     "theme_color": "#5285F4",
     "lang": "es_EN",
